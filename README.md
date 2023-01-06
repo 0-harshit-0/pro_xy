@@ -1,4 +1,4 @@
-# Pro_xy
+# Pro_x-y
  Tor Proxy over socks using Python, Stem and Flask
  
  # Installation
